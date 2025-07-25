@@ -6,7 +6,7 @@ let numero2 = parseFloat(prompt("Ingresa el valor 2: "));
 let suma = numero1 * numero2
 
 
-console.log(suma.toFixed(3));
+console.log(`Resultado: ${suma.toFixed(3)}`);
 
 
 
